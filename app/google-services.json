@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831205610358",
+    "project_id": "shop-list-98324",
+    "storage_bucket": "shop-list-98324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831205610358:android:8fb19c7f29b5979b8c6057",
+        "android_client_info": {
+          "package_name": "com.harshit.shoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831205610358-3vn6smc7lkd0pmvt9orui0usmmbvoskl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyZX3iBIjc7YknZVZ2bTtWom6ED-R8JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831205610358-3vn6smc7lkd0pmvt9orui0usmmbvoskl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
